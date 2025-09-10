@@ -1,4 +1,4 @@
-#include "common_headers.h"
+#include "common.h"
 
 #include "camera.h"
 #include "hittable.h"
